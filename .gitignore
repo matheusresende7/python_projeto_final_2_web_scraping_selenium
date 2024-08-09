@@ -163,4 +163,4 @@ cython_debug/
 Projeto - Nome e Descrição.txt
 Python - Projeto Final 1.mp4
 Thumbnail.png
-data/
+#data/
